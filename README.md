@@ -6,6 +6,7 @@
 
 The goal of quarto-revealjs-inverse is an example of how to create a inverse class to use in revealjs slides
 
+[![](example.gif)](https://emilhvitfeldt.github.io/quarto-revealjs-inverse/)
 
 ## Installation
 
