@@ -14,9 +14,13 @@ echo: true
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
+You can have inline code like this: `1 + 4 + 2 = 7`.
+
 ## Quarto {.inverse}
 
 Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+You can have inline code like this: `1 + 4 + 2 = 7`.
 
 ## Bullets
 
