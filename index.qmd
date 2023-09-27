@@ -3,6 +3,7 @@ title: "inverse"
 format: 
   revealjs:
     theme: [default, inverse.scss]
+    footer: <https://github.com/EmilHvitfeldt/quarto-revealjs-inverse>
 echo: true
 ---
 
